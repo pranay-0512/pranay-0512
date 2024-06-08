@@ -43,11 +43,6 @@ A real-time chat application using ReactJS, ExpressJS, MongoDB, and Socket.io.
   - Streamlined payment processing by 30%.
   - Resolved 95% of assigned JIRA tickets within the timeline.
 
-## 🎓 Education
-
-**COEP Technological University**: Bachelor of Technology (2020-2024), GPA: 7.6/10
-
-**City Pride Jr. College**: XII (2019-2020), Score: 85.08%
 
 ## 📫 Contact Me
 
@@ -55,16 +50,14 @@ A real-time chat application using ReactJS, ExpressJS, MongoDB, and Socket.io.
 - **LinkedIn**: [Pranay Varma](https://www.linkedin.com/in/pranay-varma-5671b0207/)
 - **GitHub**: [pranay-0512](https://github.com/pranay-0512)
 - **Twitter**: [@PranayV_0512](https://twitter.com/PranayV_0512)
-
-## 🐱 Fun Fact
-
-I love cats! 🐾
+  
 
 Feel free to reach out for collaboration or just a friendly chat. Let's build something amazing together!
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/pranay.0512"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/pranay.0512" /></a></p><br><br>
+## 😊 Support 
+<p><a href="https://buymeacoffee.com/pranay.0512"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/pranay.0512" /></a></p><br><br><br>
+
 
 ## 📈 GitHub Stats
 
