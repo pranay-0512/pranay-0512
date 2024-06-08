@@ -3,7 +3,7 @@
 
 ![Profile Clicks](https://komarev.com/ghpvc/?username=pranay-0512&color=red)
 
-✨ Solving bugs since 2022 
+✨ Solving bugs since 2022  
 📚 Currently learning Go  
 🎯 Goals 2024: Contribute to open-sourced repos 🚀  
 🎲 And I like cats 🐈
