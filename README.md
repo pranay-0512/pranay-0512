@@ -51,15 +51,23 @@ A real-time chat application using ReactJS, ExpressJS, MongoDB, and Socket.io.
 
 ## 📫 Contact Me
 
-- **Phone**: 7507272731
 - **Email**: linkpranayv90@gmail.com
 - **LinkedIn**: [Pranay Varma](https://www.linkedin.com/in/pranay-varma-5671b0207/)
 - **GitHub**: [pranay-0512](https://github.com/pranay-0512)
 - **Twitter**: [@PranayV_0512](https://twitter.com/PranayV_0512)
-- **Buy Me a Coffee**: [Pranay Varma](https://buymeacoffee.com/pranay.0512)
 
 ## 🐱 Fun Fact
 
 I love cats! 🐾
 
 Feel free to reach out for collaboration or just a friendly chat. Let's build something amazing together!
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/pranay.0512"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/pranay.0512" /></a></p><br><br>
+
+## 📈 GitHub Stats
+
+![Pranay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranay-0512&theme=dark)
+
+
