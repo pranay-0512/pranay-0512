@@ -1,3 +1,4 @@
+![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 # 👋 Hello, I'm Pranay Varma!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranay-0512&color=blue)
