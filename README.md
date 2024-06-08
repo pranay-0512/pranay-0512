@@ -35,7 +35,7 @@ A real-time collaboration whiteboard canvas with dedicated version control using
 ### [MetaChat](https://meta-chatapp.netlify.app/login)
 A real-time chat application using ReactJS, ExpressJS, MongoDB, and Socket.io.
 
-## 🌟 Achievements
+## 🌟 Work-ex
 
 - **getCurious (formerly UserStudy), SDE Intern (08/2023 – 02/2024, Remote)**
   - Worked on [app.getcurious.io](http://app.getcurious.io), [participants.userstudy.co](https://participants.userstudy.co), and [getcurious.io](http://getcurious.io).
@@ -62,5 +62,7 @@ Feel free to reach out for collaboration or just a friendly chat. Let's build so
 ## 📈 GitHub Stats
 
 ![Pranay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranay-0512&theme=dark)
+![Pranay's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=pranay-0512&show_icons=true&theme=dark)
+
 
 
