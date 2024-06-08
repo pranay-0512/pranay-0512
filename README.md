@@ -1,11 +1,11 @@
 ![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 # 👋 Hello, I'm Pranay Varma!
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranay-0512&color=blue)
+![Profile Clicks](https://komarev.com/ghpvc/?username=pranay-0512&color=red)
 
 ✨ Solving bugs since 2022 
 📚 Currently learning Go  
-🎯 Goals 2024: COntribute to open-sourced repos 🚀  
+🎯 Goals 2024: Contribute to open-sourced repos 🚀  
 🎲 And I like cats 🐈
 
 ## 🔧 Tech Stack
