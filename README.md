@@ -2,7 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranay-0512&color=blue)
 
-I'm a passionate Software Developer based in Pune, Maharashtra. I love building collaborative web applications and currently, I'm learning Golang to enhance my backend development skills. I have a strong background in frontend development with Angular and an eye for designing complex algorithms.
+✨ Solving bugs since 2022 
+📚 Currently learning Go  
+🎯 Goals 2024: COntribute to open-sourced repos 🚀  
+🎲 And I like cats 🐈
 
 ## 🔧 Tech Stack
 
@@ -14,7 +17,7 @@ I'm a passionate Software Developer based in Pune, Maharashtra. I love building 
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,6 +55,7 @@ A real-time chat application using ReactJS, ExpressJS, MongoDB, and Socket.io.
 - **LinkedIn**: [Pranay Varma](https://www.linkedin.com/in/pranay-varma-5671b0207/)
 - **GitHub**: [pranay-0512](https://github.com/pranay-0512)
 - **Twitter**: [@PranayV_0512](https://twitter.com/PranayV_0512)
+- **Buy Me a Coffee**: [Pranay Varma](https://buymeacoffee.com/pranay.0512)
 
 ## 🐱 Fun Fact
 
