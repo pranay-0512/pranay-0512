@@ -4,7 +4,7 @@
 ![Profile Clicks](https://komarev.com/ghpvc/?username=pranay-0512&color=red)
 
 ✨ Solving bugs since 2022  
-📚 Currently learning Go  
+📚 Currently learning and making projects in Go
 🎯 Goals 2024: Contribute to open-sourced repos 🚀  
 🎲 And I like cats 🐈
 
@@ -54,8 +54,8 @@ A real-time chat application using ReactJS, ExpressJS, MongoDB, and Socket.io.
 Feel free to reach out for collaboration or just a friendly chat. Let's build something amazing together!
 
 
-## 😊 Support 
-<p><a href="https://buymeacoffee.com/pranay.0512"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/pranay.0512" /></a></p><br><br><br>
+## 😊 Read my blogs 
+<p><a href="https://medium.com/@linkpranayv90">Medium - Blogs</a></p><br><br><br>
 
 
 ## 📈 GitHub Stats
