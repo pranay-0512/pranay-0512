@@ -62,6 +62,7 @@ Feel free to reach out for collaboration or just a friendly chat. Let's build so
 
 ![Pranay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranay-0512&theme=dark)
 ![Pranay's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=pranay-0512&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-0512&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 
