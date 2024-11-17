@@ -54,10 +54,6 @@ A real-time chat application using ReactJS, ExpressJS, MongoDB, and Socket.io.
 Feel free to reach out for collaboration or just a friendly chat. Let's build something amazing together!
 
 
-## 😊 Read my blogs 
-<p><a href="https://medium.com/@linkpranayv90">Medium - Blogs</a></p><br><br><br>
-
-
 ## 📈 GitHub Stats
 
 ![Pranay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranay-0512&theme=dark) <br><br>
