@@ -25,14 +25,14 @@
 
 ## 🚀 Projects
 
-### [getTogether](https://github.com/pranay-0512/getTogether)
-An event planning platform using Angular, ExpressJS, and PostgreSQL.
+### [decentShare](https://github.com/pranay-0512/decentShare)
+A P2P file sharing system following bittorrent protocol.
 
 ### [coCanvas](https://cocanvas.netlify.app/)
 A real-time collaboration whiteboard canvas with dedicated version control using a tree data structure.
 
-### [MetaChat](https://meta-chatapp.netlify.app/login)
-A real-time chat application using ReactJS, ExpressJS, MongoDB, and Socket.io.
+### [OpinX](https://github.com/pranay-0512/opinx)
+Opinion trading app with different microservices, the order-processing engine written in Go
 
 ## 🌟 Work-ex
 
