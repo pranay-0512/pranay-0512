@@ -5,7 +5,7 @@
 
 ✨ Solving bugs since 2022  
 📚 Currently learning and making projects in Go   
-🎯 Goals 2024: Contribute to open-sourced repos 🚀  
+🎯 Goals 2025: Deep dive more into Go 🚀  
 🎲 And I like cats 🐈
 
 ## 🔧 Tech Stack
